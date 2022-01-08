@@ -69,6 +69,7 @@
     <Build Include="dbo\Tables\CUSTOMERS.sql" />
     <Build Include="dbo\Stored Procedures\Procedure.sql" />
     <Build Include="dbo\Tables\Publisher.sql" />
+    <Build Include="dbo\Tables\Orders.sql" />
   </ItemGroup>
   <ItemGroup>
     <ArtifactReference Include="$(DacPacRootPath)\Extensions\Microsoft\SQLDB\Extensions\SqlServer\130\SqlSchemas\master.dacpac">

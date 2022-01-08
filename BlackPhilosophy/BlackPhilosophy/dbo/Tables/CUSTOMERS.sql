@@ -1,5 +1,5 @@
-﻿CREATE TABLE [dbo].[CUSTOMERS] (
-    [CustomerId]  INT           IDENTITY (1, 1) NOT NULL,
+﻿CREATE TABLE [dbo].[Customers](
+    [CustomerId]  INT           IDENTITY (1, 1) NOT NULL PRIMARY KEY,
     [FirstName]   VARCHAR (MAX) NOT NULL,
     [LastName]    VARCHAR (MAX) NOT NULL,
     [EmailAdress] VARCHAR (MAX) NOT NULL,
