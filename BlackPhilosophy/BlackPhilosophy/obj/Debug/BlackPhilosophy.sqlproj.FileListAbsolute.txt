@@ -1,0 +1,8 @@
+C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\bin\Debug\BlackPhilosophy.dacpac
+C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\BlackPhilosophy.sqlproj.AssemblyReference.cache
+C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\BlackPhilosophy.dll
+C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\BlackPhilosophy.pdb
+C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\bin\Debug\BlackPhilosophy.dll
+C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\bin\Debug\BlackPhilosophy.pdb
+C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\bin\Debug\master.dacpac
+C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\BlackPhilosophy.sqlproj.CopyComplete
