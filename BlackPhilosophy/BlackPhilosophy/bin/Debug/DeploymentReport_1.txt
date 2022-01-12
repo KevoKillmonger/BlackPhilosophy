@@ -1,0 +1,17 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       Primary Key: unnamed constraint on [dbo].[Customers]
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Orders] (Table)
+       Primary Key: unnamed constraint on [dbo].[Customers] (Primary Key)
+       Foreign Key: unnamed constraint on [dbo].[Orders] (Foreign Key)
+
+** Supporting actions
