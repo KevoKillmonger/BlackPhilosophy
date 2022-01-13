@@ -4,6 +4,7 @@
     [AuthorID]  INT          NOT NULL REFERENCES Philosophers (PhiloID),
     [PRICE]     MONEY        NOT NULL,
     [num_pages] INT          NULL,
+    [bookArtUrl] VARCHAR(MAX) NULL, 
     PRIMARY KEY CLUSTERED ([BookID] ASC),
     FOREIGN KEY ([AuthorID]) REFERENCES [dbo].[Philosophers] ([PhiloID])
 );
