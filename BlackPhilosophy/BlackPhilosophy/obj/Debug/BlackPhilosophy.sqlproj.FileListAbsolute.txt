@@ -6,3 +6,15 @@ C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPh
 C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\bin\Debug\BlackPhilosophy.pdb
 C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\bin\Debug\master.dacpac
 C:\Users\perfe\OneDrive\Documents\GitHub\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\BlackPhilosophy.sqlproj.CopyComplete
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\bin\Debug\BlackPhilosophy.dacpac
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\bin\Debug\BlackPhilosophy.dll
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\bin\Debug\BlackPhilosophy.pdb
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\bin\Debug\master.dacpac
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\BlackPhilosophy.sqlproj.AssemblyReference.cache
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\Model.xml
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\refactor.xml
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\postdeploy.sql
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\predeploy.sql
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\BlackPhilosophy.sqlproj.CopyComplete
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\BlackPhilosophy.dll
+C:\Users\perfe\Source\Repos\BlackPhilosophy\BlackPhilosophy\BlackPhilosophy\obj\Debug\BlackPhilosophy.pdb
